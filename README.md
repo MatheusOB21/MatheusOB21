@@ -1,16 +1,19 @@
-## Welcome 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F78D&random=false&width=435&lines=Welcome+to+my+Github+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+## Stats
 <div>
   <a href="https://github.com/MatheusOB21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusOB21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MatheusOB21&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusOB21&theme=vue-dark&hide_border=true"/>
 </div>
 
 ## Languages
 <div>
   <a href="https://github.com/MatheusOB21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOB21&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOB21&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
-## :rocket: Languages,Technologies and Tools
+## :rocket: Technologies and Tools
 <p>
 
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
